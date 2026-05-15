@@ -5,14 +5,14 @@ overflow-x:hidden ;
 overflow-y: auto;
 width: 100%;
 }
-nav.container-links {
+nav {
 display: flex;
 justify-content: space-between;
 align-items: center;
 padding: 8px;
 background-color: #f0f0f0;
 }
-.menu-icon {
+.search-bar{
 display: none;
 font-size: 24px;
 cursor: pointer;
